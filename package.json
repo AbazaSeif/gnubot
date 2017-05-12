@@ -1,0 +1,24 @@
+{
+  "name": "gnubot",
+  "version": "1.0.0",
+  "description": "GNU Auto-poster for GNUSocial/postActiv",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellurgero/gnubot.git"
+  },
+  "author": "Mitchell Urgero <info@urgero.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchellurgero/gnubot/issues"
+  },
+  "homepage": "https://github.com/mitchellurgero/gnubot#readme",
+  "dependencies": {
+    "htmlspecialchars": "^1.0.5",
+    "querystring": "^0.2.0",
+    "rivescript": "^1.17.2"
+  }
+}
